@@ -3,3 +3,5 @@ Watching the Stock Market: Data Science Independent Project #1 from Codecademy
 
 made with SQLite, DB Browser, and using data from Google Finance, answering questions from codecademy.
 Full prompt with questions available here: https://discuss.codecademy.com/t/data-science-independent-project-1-watching-the-stock-market/
+
+To see my queries and answers to the questions, please click the pdf file in this repo! :)
